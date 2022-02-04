@@ -1,2 +1,2 @@
-# machine-learning-challenge
+# Uses machine learning to classify exoplanets
  
